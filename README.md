@@ -1,8 +1,8 @@
 # Mensurando o Impacto da Presença de Torcida nas Chances de Vitoria do Time da Casa em uma Partida da NBA
 
 #### Aluno: [Stefanno Ruiz Manni](https://github.com/Stefanno28)
-#### Orientador: [Manuela Kohler]() 
-#### Co-orientador: [Felipe Borges](hhttps://github.com/FelipeBorgesCb) 
+#### Orientador: [Manuela Kohler](https://github.com/manoelakohler) 
+#### Co-orientador: [Felipe Borges](hhttps://github.com/FelipeBorgesC) 
 
 ---
 
