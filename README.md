@@ -2,7 +2,7 @@
 
 #### Aluno: [Stefanno Ruiz Manni](https://github.com/Stefanno28)
 #### Orientador: [Manuela Kohler]() 
-#### Co-orientador(/a/es/as): [Felipe Borge](hhttps://github.com/FelipeBorgesCb) 
+#### Co-orientador: [Felipe Borge](hhttps://github.com/FelipeBorgesCb) 
 
 ---
 
@@ -15,8 +15,6 @@ Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como
 ---
 
 ### Resumo
-
-<!-- trocar o texto abaixo pelo resumo do trabalho, em português -->
 
 A NBA é a maior liga de basquete do mundo e vem se internacionalizando a cada ano, com cada vez mais presença de jogadores de fora dos Estados
 Unidos. Devido à sua grande popularidade e a cultura de estatística esportiva estadunidense muitos dados estão disponíveis para realização
