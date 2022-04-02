@@ -103,7 +103,7 @@ O Modelo Naive Bayes apresentou resultados parecidos com o modelo de regressão 
 A utilização desses modelos para identificação do impacto da presença de torcida na chance do time da casa vencer fica limitado, uma vez
 que não se obteve bons resultados.
 
-### 4. Conclusões
+### 4. Conclusões <br />
 
 Foram criados diversos modelos, afim de prever o vencedor de uma partida de basquete da NBA. Porém, esbarrou-se em uma acurácia de no máximo
 65% nos dados de treino, dificultando a possibilidade de mensuração do impacto da presenca de torcida nos resultados das partidas.
