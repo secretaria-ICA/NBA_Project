@@ -2,7 +2,7 @@
 
 #### Aluno: [Stefanno Ruiz Manni](https://github.com/Stefanno28)
 #### Orientador: [Manuela Kohler](https://github.com/manoelakohler) 
-#### Co-orientador: [Felipe Borges](hhttps://github.com/FelipeBorgesC) 
+#### Co-orientador: [Felipe Borges](https://github.com/FelipeBorgesC) 
 
 ---
 
