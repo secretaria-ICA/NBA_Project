@@ -92,7 +92,7 @@ Os modelos testados nas duas abordagens foram regressão logistica, random fores
 
 ### 3. Resultados
 
-Os modelosn nas duas abordagens nao apresentaram bons resultados, sofrendo de overfitting nos algoritmos random forest e xgboost. Mesmo após regularizacao dos
+Os modelos nas duas abordagens nao apresentaram bons resultados, sofrendo de overfitting nos algoritmos random forest e xgboost. Mesmo após regularizacao dos
 parametros dos modelos, aliviou-se o problema de overfittin, porém não foi possível ultrapassar a acurácia do modelo de regressão logistica.
 
 O modelo de regressão logísitca apresentou uma acurácia de 65%, porém tanto a variável de presenca de torcida (abordagem 2) quanto a variável
