@@ -1,4 +1,4 @@
-# Mensurando o Impacto da Presença de Torcida nas Chances de Vitoria do Time da Casa em uma Partida da NBA
+# Mensurando_o_Impacto_da_Presenca_de_Torcida_nas_Chances_de_Vitoria_do_Time_da_Casa_em_uma_Partida_da_NBA
 
 #### Aluno: [Stefanno Ruiz Manni](https://github.com/Stefanno28)
 #### Orientador: [Manuela Kohler](https://github.com/manoelakohler) 
